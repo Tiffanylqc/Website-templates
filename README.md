@@ -1,2 +1,4 @@
 # Website-templates
-Playground of some website template
+
+Some website templates
+Click .html file in each folder to view the website
